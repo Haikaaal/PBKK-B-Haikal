@@ -22,6 +22,10 @@ Lalu ditambahkan page 404 jika tidak ditemukan linknya
 
 ## Database & Eloquent
 Pada tutorial kali ini, dilakukan setting database dan juga menghubungkan database dengan laravel, dengan menggunakan sqlite
+![image](https://github.com/user-attachments/assets/5f9a5b3d-f9c1-434b-8746-c73e17e64997)
+
 
 Lalu untuk bagian blog masih kosong, karena belum menginputkan data ke database
+![image](https://github.com/user-attachments/assets/a8db5ca8-576a-4c08-9f37-6fa91132217c)
+
 
