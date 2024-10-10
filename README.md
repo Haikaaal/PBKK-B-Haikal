@@ -48,6 +48,22 @@ Mmebuat sebuah koneksi antara database dengan views. Lalu bisa melihat kumpulan 
 
 Lalu membuat seeding untuk membuat data secara lebih mudah dan otomatis, lalu menambahkan kategori pada artikel
 
+## Redesign
+
+![image](https://github.com/user-attachments/assets/e7466f46-d191-4663-85ff-7a10abea1e67)
+
+Melakukan design ulang pada website
+
+## Searching and Pagination
+
+![image](https://github.com/user-attachments/assets/058230f6-82e5-4e0a-9528-eda9d1c11498)
+
+![image](https://github.com/user-attachments/assets/0fe4598e-aa20-45b7-aee0-9346ca3cd068)
+
+Menambahkan fitur search dan pagination
+
+
+
 
 
 
