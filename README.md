@@ -28,4 +28,30 @@ Pada tutorial kali ini, dilakukan setting database dan juga menghubungkan databa
 Lalu untuk bagian blog masih kosong, karena belum menginputkan data ke database
 ![image](https://github.com/user-attachments/assets/a8db5ca8-576a-4c08-9f37-6fa91132217c)
 
+## Model Factories
+
+![image](https://github.com/user-attachments/assets/997271e1-ebe9-48ee-b5e5-99b92f2ea7bb)
+
+Dibuat sebuah model factory untuk automatically membuat sebuah data di databse
+
+## Eloquent Relationship
+
+![image](https://github.com/user-attachments/assets/3675c3ad-9f3e-4d2d-acab-2fd402fb6e9a)
+
+![image](https://github.com/user-attachments/assets/9c4aab2f-00e8-45e0-864d-d267fbeafea9)
+
+Mmebuat sebuah koneksi antara database dengan views. Lalu bisa melihat kumpulan artikel yang dibuat oleh seseorang
+
+## Database Seeder
+
+![image](https://github.com/user-attachments/assets/ffa6e3f7-8599-45d8-b972-a084f7780160)
+
+Lalu membuat seeding untuk membuat data secara lebih mudah dan otomatis, lalu menambahkan kategori pada artikel
+
+
+
+
+
+
+
 
